@@ -1,7 +1,7 @@
-APP=IPSConfig_3
+APP=ispconfig
 
 ### Docker settings.
-IMAGE=ISPConfig_3
+IMAGE=ISPConfig
 CONTAINER=isp-example-org
 #PORTS=
 
